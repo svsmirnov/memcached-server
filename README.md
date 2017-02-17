@@ -1,5 +1,5 @@
 # memcached-server
-Simple Java based memcached server based on Netty and Guava cache
+Simple Java memcached server based on Netty and Guava cache
 
 
 
